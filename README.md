@@ -7,4 +7,4 @@ npm install
 
 ```
 
-paa reconstruir los módulos de Node.
+para reconstruir los módulos de Node.
