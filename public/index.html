@@ -34,6 +34,7 @@
            //google token: ID_TOKEN
 
            const body = {id_token: response.credential}
+           console.log(`${window.location.origin}`)
            fetch(`${window.location.origin}/api/auth/google`, {
            
             method: 'POST',
