@@ -1,1 +1,1 @@
-#carpeta para las imagenes
+# carpeta para las imagenes

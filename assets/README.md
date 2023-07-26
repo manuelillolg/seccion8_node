@@ -1,0 +1,1 @@
+# imagen por defecto
