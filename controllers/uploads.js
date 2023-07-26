@@ -115,7 +115,7 @@ const mostrarImagen = async(req, res = response) =>{
         }
 
         res.sendFile(
-             path.join(__dirname,'../assets','no-Image.jpg')
+             path.join(__dirname,'../assets','no-image.jpg')
         );
     }catch(err){
         res.json(err);
